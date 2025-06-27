@@ -29,10 +29,10 @@ Here are some of the key insights from the EDA:
 ### Price vs Seller Type  
 <img src="images/seller_type_vs_price_boxplot.png" alt="Price vs Seller Type" width="500"/>
 
-### 🚘 Price vs Car Make  
+### Price vs Car Make  
 <img src="images/make_vs_price_boxplot.png" alt="Price vs Car Make" width="500"/>
 
-### 🎨 Price vs Color  
+### Price vs Color  
 <img src="images/color_vs_price_boxplot.png" alt="Price vs Color" width="500"/>
 
 ---
@@ -44,11 +44,12 @@ Here are some of the key insights from the EDA:
 - Regression models tried: **Linear Regression, Ridge, Lasso, Random Forest**
 - Final model evaluated using **R² score** and **residual analysis**
 
-### 🔸 Pipeline Architecture
-![pipeline_architecture](images/pipeline_architecture.png)
+### Pipeline Architecture  
+<img src="images/pipeline_architecture.png" alt="Pipeline Architecture" width="300"/>
 
-### 🔸 Residuals of Final Model
-![residuals_training_data](images/residuals_training_data.png)
+### Residuals of Final Model  
+<img src="images/residuals_training_data.png" alt="Residuals of Final Model" width="300"/>
+
 
 ---
 
